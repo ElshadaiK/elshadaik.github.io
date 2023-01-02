@@ -12,10 +12,15 @@ html {
     );
   
     --imp-text-color: #c770f0;
+    --sec-text-color: #709df0;
   }
   
   .purple {
     color: var(--imp-text-color) !important;
+  }
+
+  .blue {
+    color: var(--sec-text-color) !important;
   }
   
   button:focus {
@@ -33,7 +38,7 @@ html {
     height: 100%;
     z-index: 999999;
     background-color: #0c0513;
-    background-image: url(./Assets/pre.svg);
+    background-image: url(./Assets/pre.gif);
     background-repeat: no-repeat;
     background-position: center;
   }
@@ -155,8 +160,8 @@ html {
   }
   
   .logo {
-    height: 1.4em !important;
-    width: 2.5em !important;
+    height: 5em !important;
+    width: 6.5em !important;
   }
   
   .navbar-nav .nav-link {

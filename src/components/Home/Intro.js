@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avatar.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -16,40 +16,36 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              LET ME <span className="purple"> INTRO</span>DUCE MYSELF
             </h1>
             <p className="home-about-body">
-              I started programming in early 2019, when I joined Software Engineering department at AAU. 
+              I started programming in early 2019, when I joined Software
+              Engineering department at AAU.
               <br />
-              <br />I first started with Python then worked on web development for a while. 
-              <br />And my favorite coding language has been 
+              <br />I first started with Python then worked on web development
+              for a while.
+              <br />
+              And my favorite coding language has been
               <i>
-                <b className="purple"> Javascript </b> and I'm conversant with Java, Python and, sometimes C 🤯 I know!
+                <b className="purple"> Javascript </b> and I'm conversant with
+                Java, Python and, sometimes C 🤯 I know!
               </i>
               <br />
               <br />
               I'm highly interested in &nbsp;
               <i>
-                <b className="purple">Machine Learning </b> and
-                also in{" "}
-                <b className="purple">
-                  Geometry Processing
-                </b>
+                <b className="purple">Machine Learning </b> and also in{" "}
+                <b className="purple">Geometry Processing</b>
               </i>
               <br />
               <br />
-              I'm also a member of the Africa To Silicon Valley Organization 
-              <b className="purple"> A2SV</b> where I  
+              I'm also a member of the Africa To Silicon Valley Organization
+              <b className="purple"> A2SV</b> where I
               <i>
-                <b className="purple">
-                  {" "}
-                 Mentor
-                </b>
+                <b className="purple"> Mentor</b>
               </i>
               &nbsp; and
-              <i>
-                <b className="purple"> Learn</b> to be a great problem solver
-              </i>
+              <b className="purple"> Practice</b> to be a great problem solver
             </p>
           </Col>
           <Col md={4} className="myAvtar">

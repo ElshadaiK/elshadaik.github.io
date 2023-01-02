@@ -1,8 +1,8 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import homeLogo from "../../Assets/home-main.svg";
+import homeLogo from "../../Assets/home-main.png";
 import Particle from "../Particle";
-import Home2 from "./Intro";
+import Intro from "./Intro";
 import Type from "./Type";
 
 function Home() {
@@ -14,14 +14,14 @@ function Home() {
           <Row>
             <Col md={7} className="home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading">
-                Hi There!{" "}
+                Hi there!{" "}
                 <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
                 </span>
               </h1>
 
               <h1 className="heading-name">
-                I'M
+                I'm
                 <strong className="main-name"> ELSHADAI TEGEGN</strong>
               </h1>
 
@@ -41,7 +41,7 @@ function Home() {
           </Row>
         </Container>
       </Container>
-      <Home2 />
+      <Intro />
     </section>
   );
 }
