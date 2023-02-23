@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccd40889.css",
+    "main.js": "/static/js/main.aebf0a52.js",
+    "static/js/787.a71561b8.chunk.js": "/static/js/787.a71561b8.chunk.js",
+    "static/media/shega.png": "/static/media/shega.c44a0754e268480cb29d.png",
+    "static/media/eldelicios.png": "/static/media/eldelicios.709e9394815ba07bd318.png",
+    "static/media/avatar.png": "/static/media/avatar.0f956fdc96130985514a.png",
+    "static/media/about.png": "/static/media/about.99398da51706e2d167a6.png",
+    "static/media/home-main.png": "/static/media/home-main.936186cd397c2ff70479.png",
+    "static/media/pageNpen.png": "/static/media/pageNpen.8ba743c2628cdff83630.png",
+    "static/media/pre.gif": "/static/media/pre.1cab38e239faa4b93751.gif",
+    "static/media/Elshadai_Tegegn_CV_Jan23.pdf": "/static/media/Elshadai_Tegegn_CV_Jan23.0f7232dbf16a542b3c76.pdf",
+    "static/media/logo.png": "/static/media/logo.cb2a3515a477f29b3048.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/nilestream.png": "/static/media/nilestream.4ce52b9c20a3c82477d0.png",
+    "index.html": "/index.html",
+    "main.ccd40889.css.map": "/static/css/main.ccd40889.css.map",
+    "main.aebf0a52.js.map": "/static/js/main.aebf0a52.js.map",
+    "787.a71561b8.chunk.js.map": "/static/js/787.a71561b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd40889.css",
+    "static/js/main.aebf0a52.js"
+  ]
+}
